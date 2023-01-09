@@ -1,4 +1,4 @@
-# Proje
+# Proje Hakkında
 Proje kapsamında ülkelerin 2015 - 2017 yılları arasındaki mutluluk puanlarına ve mutluluk puanını etkileyen faktörlerdeki durumları incelenmiştir.
 
 # Modüller
